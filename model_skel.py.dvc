@@ -1,0 +1,4 @@
+outs:
+- md5: eff231084fb6e4609939a1453ce5e506
+  size: 51
+  path: model_skel.py
